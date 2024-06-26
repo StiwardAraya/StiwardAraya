@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Stiward Araya 
 
-<!--
-**StiwardAraya/StiwardAraya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+Systems engineering student with a passion for front-end development, 
+seeking to expand my skills and knowledge to contribute to relevant projects.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my personal web portfolio
+- 🌱 I’m currently learning front-end developing tools
+- 📫 How to reach me: StiwardArayaCalderon98@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools I know
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"  title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JAVASCRIPT" alt="JAVASCRIPT" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg"  title="JAVA" alt="JAVA" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"  title="MYSQL" alt="MYSQL" width="40" height="40"/>&nbsp;
