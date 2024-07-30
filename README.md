@@ -4,9 +4,10 @@
 Systems engineering student with a passion for front-end development, 
 seeking to expand my skills and knowledge to contribute to relevant projects.
 
-- 🔭 I’m currently working on my personal web portfolio
+- 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning front-end developing tools
 - 📫 How to reach me: StiwardArayaCalderon98@gmail.com
+- 🔭 Get to know me: stiwardaraya.github.io
 
 ### Tools I know
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"  title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
