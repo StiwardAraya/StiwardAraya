@@ -10,11 +10,11 @@ seeking to expand my skills and knowledge to contribute to relevant projects.
 - 🔭 Get to know me: stiwardaraya.github.io
 
 ### Certificated in
-#### -JavaScript Algorithms And Data Structures
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JAVASCRIPT" alt="JAVASCRIPT" width="20" height="20"/>&nbsp; 
 #### -Responsive Web Design
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"  title="HTML5" alt="HTML" width="20" height="20"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="20" height="20"/>&nbsp;
+#### -JavaScript Algorithms And Data Structures
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JAVASCRIPT" alt="JAVASCRIPT" width="20" height="20"/>&nbsp; 
 
 ### Tools I know
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"  title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
