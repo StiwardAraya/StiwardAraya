@@ -14,7 +14,7 @@ Actualmente estoy profundizando en **Spring Boot** y en las prácticas de ingeni
 
 ### Backend & Java Ecosystem
 
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java_25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-007396?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![JSF](https://img.shields.io/badge/JSF-Java_EE-007396?style=for-the-badge)
